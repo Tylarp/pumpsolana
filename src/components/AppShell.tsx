@@ -9,7 +9,7 @@ import { GraduatedView } from '@/views/GraduatedView';
 import { MostHeldView } from '@/views/MostHeldView';
 import { TopMoversView } from '@/views/TopMoversView';
 import { AISignalView } from '@/views/AISignalView';
-import { TwitterView } from '@/views/TwitterView';
+import TwitterView from '@/views/TwitterView';
 import { RiskScannerView } from '@/views/RiskScannerView';
 import { AlertsView } from '@/views/AlertsView';
 import { WatchlistView } from '@/views/WatchlistView';
